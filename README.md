@@ -29,5 +29,5 @@ Ensure you have Rust, Node.js, and the Android SDK installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/NuxsGit/cupid.git](https://github.com/NuxsGit/cupid.git)
+   git clone https://github.com/NuxsGit/cupid.git
    cd cupid
